@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon-web", "pokemon-web\pokemon-web.csproj", "{72FAA68B-5C08-4481-B3E4-7E26D3D211B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{AAEDEAD1-5FBA-4775-82C9-4BB18581535A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{A3C98043-9271-4DD7-AEC0-0C36D60C0952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{72FAA68B-5C08-4481-B3E4-7E26D3D211B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72FAA68B-5C08-4481-B3E4-7E26D3D211B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72FAA68B-5C08-4481-B3E4-7E26D3D211B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEDEAD1-5FBA-4775-82C9-4BB18581535A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEDEAD1-5FBA-4775-82C9-4BB18581535A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEDEAD1-5FBA-4775-82C9-4BB18581535A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEDEAD1-5FBA-4775-82C9-4BB18581535A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C98043-9271-4DD7-AEC0-0C36D60C0952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C98043-9271-4DD7-AEC0-0C36D60C0952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C98043-9271-4DD7-AEC0-0C36D60C0952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C98043-9271-4DD7-AEC0-0C36D60C0952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
